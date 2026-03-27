@@ -1,0 +1,8 @@
+{
+  "run": 50,
+  "curiosity": 40,
+  "confidence": 50,
+  "frustration": 15,
+  "momentum": 60,
+  "wonder": 25
+}

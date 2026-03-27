@@ -1,0 +1,22 @@
+{
+  "_note": "Example of real-world data fetched by the harness before each run",
+  "market": {
+    "sp500": { "price": 6477.16, "previous_close": null, "currency": "USD" },
+    "bitcoin": { "price": 68737.92, "previous_close": null, "currency": "USD" }
+  },
+  "weather": {
+    "location": "Salt Lake City",
+    "temperature_f": 53.9,
+    "conditions": "Clear",
+    "forecast_3day_highs": [67.3, 70.0, 78.0]
+  },
+  "headlines": [
+    { "title": "Show HN: I put an AI agent on a $7/month VPS", "score": 123 },
+    { "title": "Agent-to-Agent Pair Programming", "score": 12 }
+  ],
+  "system": {
+    "disk_pct_used": "45%",
+    "battery": "15%",
+    "uptime_days": 1.4
+  }
+}
